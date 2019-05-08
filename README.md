@@ -10,4 +10,4 @@ On google sites, go the edit mode of the page you'd like to add the gadget.
 
 And then put the following URL:
 
-    https://raw.githubusercontent.com/aliciatang/mailchimp-gadget/master/mailchimp.xml
+    https://raw.githubusercontent.com/aessedai101/mailchimp-gadget/master/mailchimp.xml
